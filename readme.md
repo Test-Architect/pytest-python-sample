@@ -1,4 +1,4 @@
-# QA Automation Portfolio Project
+# QA Automation (PageObjectModel based) Project
 **Developer:** Israel Wasserman [LinkedIn](https://www.linkedin.com/in/israel-wasserman/)
 
 ### Overview
